@@ -1,11 +1,10 @@
 ---
 name: institutional-fluency
-description: A skill for mastering the language, visual identity, and procedures of
-  target institutions to enable convincing impersonation or critique.
+description: A skill for mastering the language, visual identity, and procedures of target institutions to enable convincing impersonation or critique.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - institutional-fluency
 - writing
