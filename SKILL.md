@@ -4,7 +4,8 @@ description: A skill for mastering the language, visual identity, and procedures
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4236
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - institutional-fluency
 - writing
